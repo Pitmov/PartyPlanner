@@ -4,6 +4,8 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 Demo is here - https://pitmov.github.io/PartyPlanner/
 
+Also you can use ctrl+h to show and hide ngrx-store-logger panel. And ctrl+m to change it position on screen.
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
